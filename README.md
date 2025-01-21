@@ -18,7 +18,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/avenger2256/avenger2256/output/snake.svg" alt="Snake animation" />
-
-###
