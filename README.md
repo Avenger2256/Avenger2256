@@ -19,6 +19,12 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/avenger2256/avenger2256/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Avenger2256/Avenger2256/output/github-contribution-grid-snake-dark.svg">
+  [//]: <> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Avenger2256/Avenger2256/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Avenger2256/Avenger2256/output/github-contribution-grid-snake.svg">
+</picture>
+
+![snake gif](https://github.com/Avenger2256/Avenger2256/blob/output/github-contribution-grid-snake.svg)
 
 ###
