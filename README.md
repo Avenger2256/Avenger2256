@@ -25,6 +25,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Avenger2256/Avenger2256/output/github-contribution-grid-snake.svg">
 </picture>
 
-![snake gif](https://github.com/Avenger2256/Avenger2256/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Avenger2256/Avenger2256.github.io/blob/outgithub-contribution-grid-snake.svg)
 
 ###
