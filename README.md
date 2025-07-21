@@ -2,8 +2,9 @@
 
 ###
 
-<div>
-  <a href="https://mynickname.com/id1833562"><img src="https://mynickname.com/img.php?id=1833562&sert=1" alt="Сертификат на никнейм Whyosa, зарегистрирован на https://t.me/whyosa" border="0" /></a><br /><a href="https://mynickname.com/nft">NFT for nickname</a>
+<div display="flex">
+  <a href="https://mynickname.com/id1833562"><img src="https://mynickname.com/img.php?nick=Whyosa&sert=24&text=t5" alt="Nickname Whyosa registred!" /></a>
+<a href="https://mynickname.com/avenger2256"><img src="https://mynickname.com/img.php?nick=Avenger2256&sert=24&text=t5" alt="Nickname Avenger2256 registred!" /></a>
 </div>
 
 <div align="center">
