@@ -3,8 +3,8 @@
 ###
 
 <div display="flex" align="center">
-  <a href="https://mynickname.com/id1833562"><img src="https://mynickname.com/img.php?nick=Whyosa&sert=24&text=t5" alt="Nickname Whyosa registred!" /></a>
-<a href="https://mynickname.com/avenger2256"><img src="https://mynickname.com/img.php?nick=Avenger2256&sert=24&text=t5" alt="Nickname Avenger2256 registred!" /></a>
+  <a href="https://mynickname.com/id1833562"><img src="https://mynickname.com/img.php?nick=Whyosa&sert=24&text=t5" alt="Nickname Whyosa registred!"></a>
+  <a href="https://mynickname.com/avenger2256" margin-right="10px"><img src="https://mynickname.com/img.php?nick=Avenger2256&sert=24&text=t5" alt="Nickname Avenger2256 registred!"></a>
 </div>
 
 <div align="center">
@@ -15,12 +15,6 @@
 ###
 
 <h3 align="center">Profile views</h3>
-
-###
-
-<div align="center">
-  <h5>Glitch - the service that provided the counter is no longer working</h5>
-</div>
 
 ###
 
