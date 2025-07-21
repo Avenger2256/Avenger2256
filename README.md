@@ -14,7 +14,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/avenger2256/count.svg?"  />
+  <h5>Glitch - the service that provided the counter is no longer working</h5>
 </div>
 
 ###
